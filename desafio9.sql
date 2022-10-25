@@ -1,0 +1,1 @@
+SELECT COUNT(id) as quantidade_musicas_no_historico FROM historic WHERE user = '1';
